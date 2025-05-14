@@ -1,0 +1,181 @@
+html{
+    background-color: rgb(65, 61, 61);
+}
+
+h1{
+    
+    text-align: center;
+    color: #d40000;
+    font-weight: bold;
+    font-size: 50px;
+    text-shadow: #070707;
+}
+h2{
+    color: #ca0000;
+    text-align:left;
+    font-weight: 500;
+    font-size: 40px;
+    text-shadow: #ca0000;
+}
+h3{
+    color: #ca0000;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 100;
+    text-shadow: #ca0000;
+}
+P{
+    background-color: rgb(65, 61, 61);
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+}
+P2{
+    background-color: rgb(65, 61, 61);
+    text-align: left;
+    color: #ffffff;
+    font-size: 20px;
+}
+img {
+    
+    width: 1350px;
+    height: 200px;;
+
+    }
+nav{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.button{
+    text-align: center;
+    background-color: rgba(250, 6, 6, 0.089);
+    border-radius: 10px;
+    border: 4px double #ad1616;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.buttonfriendrequest {
+    text-align: center;
+    background-color: rgba(250, 6, 6, 0.089);
+    border-radius: 10px;
+    border: 4px double #ad1616;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+    width: 200px;
+    cursor: pointer;
+}
+.image1{
+    background-image: none;
+    width: 20%;
+    height: 1000px;
+}
+
+.image2{
+    background-image: none;
+    width: 800px;
+    height: 1000px;
+}
+.imagehtml{
+    width:70%;
+    height:70%;
+}
+.imgVScode{
+    width: 20%;
+    height: 20%;
+    text-align: left;
+}
+.imglogo{
+    width:5%;
+    height:5%;
+    text-align: left;
+    float: left;
+}
+a{
+    color: #ffffff;
+    text-align: center;
+}
+button learn{
+    text-align: center;
+    background-color: rgba(250, 6, 6, 0.089);
+    border-radius: 10px;
+    border: 4px double #ad1616;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 5px;
+    width: 100px;
+    cursor: pointer;
+}
+
+form {
+  background: 	#201f1f;
+  padding: 3rem ;
+  height: 320px;
+  width: 200px;
+  border-radius: 20px;
+  border-left: 1px solid rgba(255, 255, 255, .3);
+  border-top: 1px solid rgba(255, 255, 255, .3);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  -moz-backdrop-filter: blur(10px);
+  box-shadow: 20px 20px 40px -6px rgba(250, 4, 4, 0.733);
+  text-align: center;
+  margin-left:auto;
+  margin-right: auto;
+}
+  
+aacount {
+  text-decoration: none;
+  color: #ff0000;
+  font-size: 12px;
+}
+
+a:hover {
+  text-shadow: 2px 2px 6px #eb0b0b;
+}
+
+a:active {
+  text-shadow: #ffffff;
+}
+inputacount {
+  background-color: #d40000;
+  border: none;
+  border-left: 1px solid rgba(255, 255, 255, .3);
+  border-top: 1px solid rgba(255, 255, 255, .3);
+  padding: 1rem;
+  width: 200px;
+  border-radius: 50px;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  -moz-backdrop-filter: blur(5px);
+  box-shadow: 4px 4px 60px rgba(219, 6, 6, 0.836);
+  color: rgb(190, 10, 10);
+  font-weight: 500;
+  text-shadow: 2px 2px 4px rgb(167, 2, 2);
+  transition: all .3s;
+  margin-bottom: 2em;
+  
+  
+}
+input:hover,
+input[type="email"]:focus,
+input[type="password"]:focus{
+  background: rgba(230, 9, 9, 0.1);
+  box-shadow: 4px 4px 60px 8px rgba(245, 4, 4, 0.2);
+}
+    
+input[type="button"] {
+  margin-top: 10px;
+  width: 150px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+::placeholder {
+  color: #920b0b;
+}
+
